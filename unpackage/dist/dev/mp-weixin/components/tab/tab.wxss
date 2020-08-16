@@ -51,6 +51,7 @@
           flex-wrap: nowrap;
   height: 45px;
   box-sizing: border-box;
+  -webkit-scrollbar: none;
 }
 .tab .tab-scroll .tab-scroll__box .tab-scroll__item {
   -webkit-flex-shrink: 0;
